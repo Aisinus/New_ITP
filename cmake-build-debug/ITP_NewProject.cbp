@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ITP_NewProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ITP_NewProject">
+				<Option output="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/ITP_NewProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-unknown-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 ITP_NewProject"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ITP_NewProject/fast">
+				<Option output="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/ITP_NewProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-unknown-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 ITP_NewProject/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Application.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Application.h">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Driver.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Driver.h">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/DriverGateway.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/DriverGateway.h">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Passenger.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/Passenger.h">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/PassengerGateway.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/PassengerGateway.h">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/main.cpp">
+			<Option target="ITP_NewProject"/>
+		</Unit>
+		<Unit filename="/home/aisen/CLionProjects/ITP_NewProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ITP_NewProject.dir/main.cpp.o CMakeFiles/ITP_NewProject.dir/Passenger.cpp.o CMakeFiles/ITP_NewProject.dir/Driver.cpp.o CMakeFiles/ITP_NewProject.dir/PassengerGateway.cpp.o CMakeFiles/ITP_NewProject.dir/DriverGateway.cpp.o CMakeFiles/ITP_NewProject.dir/Application.cpp.o -o ITP_NewProject 

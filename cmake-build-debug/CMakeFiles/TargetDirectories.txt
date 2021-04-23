@@ -1,0 +1,3 @@
+/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aisen/CLionProjects/ITP_NewProject/cmake-build-debug/CMakeFiles/ITP_NewProject.dir
